@@ -11,5 +11,3 @@ I’m Muhammad Zain Ahmad, an AI engineer based in Riyadh. I build practical app
 - Docker, Git and reproducible local development
 
 I’m especially interested in agent evaluation, local models and memory systems that can show where an answer came from.
-
-[LinkedIn](https://www.linkedin.com/in/muhammad-zain-ahmad-892056402/)
